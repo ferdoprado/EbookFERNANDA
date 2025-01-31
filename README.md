@@ -1,6 +1,6 @@
-# EbookFERNANDA
+# EbookFERNANDA - Scrum Simplificado
 <p align="center">
-    <img width="100" src=".github/capa_ebook.png">
+    <img width="100" src=".github/capa_ebook.jpg">
 </p>
 
 
