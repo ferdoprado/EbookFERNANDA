@@ -1,6 +1,6 @@
 # EbookFERNANDA
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/capa_ebook.png">
 </p>
 
 
