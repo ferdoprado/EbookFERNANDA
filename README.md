@@ -23,7 +23,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna da DIO.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um E-book digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
@@ -31,7 +31,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [BING](https://www.bing.com/images/))
+- [BING](https://www.bing.com/images/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -41,8 +41,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | 1 - Crie um título de um e-book, onde o objetivo é ensinar de forma simples e direta os principais conceitos do Scrum, o título deve ser curto.  2 - podei me dar mais algums opções com título e subtitulo ?                                         |
-| conteúdo | faça um texto para e-book com foco em scrum, listando as principais caracteristicas e elementos.{Regras}>Explique de maneira simples>Use texto enxuto>Traga sempre um exemplopara ilustrar>Traga um titulo por topico
+|  título  |  Crie um título de um e-book, onde o objetivo é ensinar de forma simples e direta os principais conceitos do Scrum, o título deve ser curto.  2 - poderi me dar mais algumas opções com título e subtitulo ?                                         |
+| conteúdo | Faça um texto para e-book com foco em Scrum, listando as principais caracteristicas e elementos.{Regras}>Explique de maneira simples>Use texto enxuto>Traga sempre um exemplopara ilustrar>Traga um titulo por topico
 
 BING：
 
@@ -57,7 +57,7 @@ BING：
 
 ## 📚 Materiais
 
-- Imagens e Ebook ppt e pdf  gerado em 'EbookFERNANDA'
+- Imagens e Ebook (ppt e pdf ) gerado em 'EbookFERNANDA'
 
 
 ## 👨‍💻 Expert
@@ -69,7 +69,7 @@ BING：
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspFernanda Cossa do Prado<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/ferdoprado">
     GitHub</a>&nbsp;|&nbsp;
