@@ -60,7 +60,7 @@ BING：
 - Imagens e Ebook (ppt e pdf ) gerado em 'EbookFERNANDA'
 
 
-## 👨‍💻 Expert
+## 👨‍💻 Aluna
 
 <p>
     <
