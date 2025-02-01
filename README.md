@@ -63,11 +63,7 @@ BING：
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    <
     />
     <p>&nbsp&nbsp&nbspFernanda Cossa do Prado<br>
     &nbsp&nbsp&nbsp
